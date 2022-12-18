@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/discord/1049315269132169316?color=%237289da&label=Discord&style=for-the-badge)
 
-### Lien vers [Discord](https://discord.gg/YfjEmPhj)
+### Lien vers [Discord](https://discord.gg/SPFsgx5ahE)
 
 
 
