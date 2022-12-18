@@ -32,8 +32,3 @@
 - [ ] Une CI / Github Actions
 - [ ] Synchro sur un repo gitlab
 - [ ] Push sur les 2 remote (github + gitlab)
-
-------------
-> Nous actuellement
-
-![](https://s1.qwant.com/thumbr/0x0/0/1/1e979bc8ff095d3913e990c805c890c513e6fad66f1e8016595553a5f0530c/tenor.gif?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fbddf2872f32eea960e56bd76093dd3c9%2Ftenor.gif%3Fitemid%3D6035620&q=0&b=1&p=0&a=0)
