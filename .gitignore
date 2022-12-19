@@ -1,0 +1,13 @@
+# Config gitingore de base pour vscode récupérer sur gitignore/Global/VisualStudioCode.gitignore
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# L'historique locale de Visual Studio Code
+.history/
+
+# Les build des extensions de Visual Studio Code
+*.vsix
