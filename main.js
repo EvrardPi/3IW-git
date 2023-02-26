@@ -5,4 +5,4 @@ const var2 = 5;
 
 const result = var1 + var2;
 
-console.log(result);
+console.log(result)

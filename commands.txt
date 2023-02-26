@@ -1,4 +1,6 @@
 // Version de node 18.14.2
+nvm install 18
+nvm use 18.14.2
 
 // Tout début d'un project
 1) npm init (création project)
@@ -8,5 +10,7 @@
 3) npm i (installation automatique des librairies qu'il manque)
 3) npm start (lancer le main)
 4) npm run lint (lancer le linter)
+
+5) git config core.hooksPath ./hooks (définir l'emplacement des hooks du repo)
 
 config du linter = airbnb (la plus utilisée, règles de lint à configurer/modifier, exemple: simplutilisation de simple cotes)
