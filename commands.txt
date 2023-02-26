@@ -1,0 +1,12 @@
+// Version de node 18.14.2
+
+// Tout début d'un project
+1) npm init (création project)
+2) npm i eslint -D (installation de la lib linter)
+
+// Après clone
+3) npm i (installation automatique des librairies qu'il manque)
+3) npm start (lancer le main)
+4) npm run lint (lancer le linter)
+
+config du linter = airbnb (la plus utilisée, règles de lint à configurer/modifier, exemple: simplutilisation de simple cotes)

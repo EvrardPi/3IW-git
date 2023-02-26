@@ -1,4 +1,4 @@
-# Config gitingore de base pour vscode récupérer sur gitignore/Global/VisualStudioCode.gitignore
+# Config gitignore de base pour vscode récupérer sur gitignore/Global/VisualStudioCode.gitignore
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -11,3 +11,6 @@
 
 # Les build des extensions de Visual Studio Code
 *.vsix
+
+# Les librairies node
+node_modules/
