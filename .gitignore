@@ -1,4 +1,4 @@
-# Config gitingore de base pour vscode récupérer sur gitignore/Global/VisualStudioCode.gitignore
+# Config gitignore de base pour vscode récupérer sur gitignore/Global/VisualStudioCode.gitignore
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
