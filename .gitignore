@@ -11,3 +11,6 @@
 
 # Les build des extensions de Visual Studio Code
 *.vsix
+
+# Les librairies node
+node_modules/
